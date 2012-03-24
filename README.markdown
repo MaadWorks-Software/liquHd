@@ -1,5 +1,6 @@
 liquHd#
-**Am open source light weight quick web server**
+
+**An open source light weight quick web server**
 
 <table >
 <tr ><th style="border-style: solid; background-color: red;">The Project</th></tr>
